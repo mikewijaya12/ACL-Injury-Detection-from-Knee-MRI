@@ -4,7 +4,9 @@ kneemri_jpg/
 volumetric_data/
 roboflow/
 outputs/
+__pycache__/
 
+*.pyc
 *.csv
 *.png
 *.jpg
