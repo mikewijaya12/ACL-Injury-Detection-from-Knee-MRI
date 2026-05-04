@@ -1,0 +1,11 @@
+MRNet-v1.0/
+kneemri_jpg/
+volumetric_data/
+roboflow/
+outputs/
+
+*.csv
+*.png
+*.jpg
+
+.DS_Store
